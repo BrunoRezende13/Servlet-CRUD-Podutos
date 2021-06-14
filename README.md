@@ -1,2 +1,2 @@
-# Servlet GRUD Podutos
-Um GRUD simples de produtos usando servlet para estudo.
+# Servlet CRUD Podutos
+Um CRUD simples de produtos usando servlet para estudo.
